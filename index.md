@@ -175,4 +175,4 @@ import
 
 ---
 
-~~~Пожелания и замечания можно оставить [здесь](https://github.com/Sansan4ez/sansan4ez.github.io/issues).~~~
+*Пожелания и замечания можно оставить [здесь](https://github.com/Sansan4ez/sansan4ez.github.io/issues).*
