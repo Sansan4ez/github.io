@@ -112,7 +112,7 @@
 Ключевые слова 3:
 ```
 
-**Настройка (fine-tune) ✅:** Смотрите лучшие практики настройки [здесь](https://platform.openai.com/docs/guides/fine-tuning).
+**Точная настройка (fine-tune) ✅:** Смотрите лучшие практики файнтюна [здесь](https://platform.openai.com/docs/guides/fine-tuning).
 
 ### 6. Уменьшите "пушистые" и неточные описания
 
